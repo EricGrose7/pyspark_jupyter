@@ -29,6 +29,3 @@ Replace <your_notebook_dir> with the path to the directory on your local machine
 Open your web browser and go to http://localhost:8888. This will open the Jupyter Notebook interface.
 
 You can now create new notebooks and start working with PySpark.
-
-**License**
-This project is licensed under the MIT License - see the LICENSE file for details.
